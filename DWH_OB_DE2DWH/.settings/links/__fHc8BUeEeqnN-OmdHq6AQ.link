@@ -39,6 +39,9 @@
     }, {
       "id" : "_Glb4mzmOEe2Qdo9o8yQSrg",
       "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_lzJVAWZtEe2Nq7nBn0aXlg",
+      "name" : "resource_webhook_payload"
     } ]
   }, {
     "contextName" : "dev",
@@ -79,6 +82,9 @@
     }, {
       "id" : "_IxdhuzmCEe2ZZ9a1JYeuLg",
       "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_lzJVAmZtEe2Nq7nBn0aXlg",
+      "name" : "resource_webhook_payload"
     } ]
   }, {
     "contextName" : "Default",
@@ -119,6 +125,9 @@
     }, {
       "id" : "_Glb4jTmOEe2Qdo9o8yQSrg",
       "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_lzJVAGZtEe2Nq7nBn0aXlg",
+      "name" : "resource_webhook_payload"
     } ]
   } ]
 }
